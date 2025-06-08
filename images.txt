@@ -2,3 +2,4 @@ nginx
 openjdk:11
 alpine/java:11-jdk
 centos:centos7.6.1810
+mysql:8.0.27
